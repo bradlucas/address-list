@@ -1,5 +1,7 @@
 # address-list
 
+[![Clojars Project](https://img.shields.io/clojars/v/com.bradlucas/address-list.svg)](https://clojars.org/com.bradlucas/address-list)
+
 Routines for working with address lists. 
 
 Sample data from [https://www.briandunning.com/sample-data/](https://www.briandunning.com/sample-data/)
@@ -19,6 +21,6 @@ Example
 
 ## License
 
-Copyright (C) 2012 FIXME
+Copyright (C) 2012 Brad Lucas
 
 Distributed under the Eclipse Public License, the same as Clojure.
